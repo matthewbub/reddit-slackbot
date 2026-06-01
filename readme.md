@@ -2,7 +2,7 @@
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
-Browse through the most popular safe-for-work subreddits directly from <s>any</s> the <a href="https://join.slack.com/t/ghstsolutions/shared_invite/zt-s0jyi58m-SU2Gr9XMKUTnJbUcEiAXoQ">Ghst Solutions Slack Workspace</a>. This application is licensed under MIT. All 3rd party data is sourced directly from Reddit. 
+Browse through the most popular safe-for-work subreddits directly. This application is licensed under MIT. All 3rd party data is sourced directly from Reddit. 
 
 > This application was built to experiment with Slacks Bolt library. It is simply a fun proof of concept. 
 
